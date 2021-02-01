@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi</title>
+    <link>https://jofuz.github.io/</link>
+    <description>Recent content on Hi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://jofuz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Placeholder</title>
+      <link>https://jofuz.github.io/posts/2021/02/placeholder/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jofuz.github.io/posts/2021/02/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://jofuz.github.io/portfolio/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://jofuz.github.io/portfolio/</guid>
+      <description>College Projects A variety of projects relating to web design, programming and studies
+   Project Languages Used     Flight Booking System C#   Cars Database Search Application C#   Bake My Day HTML, CSS, JavaScript, PHP   Data Search JavaScript, HTML, CSS   Ad Zone PHP, MySQL, HTML, CSS, JavaScript   FlipSide Gaffs HTML, CSS, JavaScript    Websites I have worked at design agencies, maintaining, updating and building websites according to the designs that were provoded to me.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jofuz.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jofuz.github.io/about/</guid>
+      <description>I&amp;rsquo;m Joey, an aspiring software developer, currently doing an apprenticeship which involves studying software development and working as a site reliablilty engineer. I have had a few different job roles such as a waiter, photographer customer support adviser and tech support adviser for my colleagues. My studies began with photgraphy, then web design which eventually led to web development and well, you can tell from my timeline of work in my portfolio where I aim to be in my career.</description>
+    </item>
+    
+  </channel>
+</rss>
